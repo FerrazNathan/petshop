@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <main>
       <div className="container">
-        <h2 className="titulo-pagina">Pet notícias</h2>
+        <h2 className="titulo-pagina">Pet Notícias</h2>
       </div>
       <section className="container flex flex--centro">
       <article className="cartao post">
