@@ -19,6 +19,9 @@ function App() {
         <Route path='/sobre'>
           <Sobre />
         </Route>
+        <Route path='/categoria'>
+          <Sobre />
+        </Route>
         <Route path='/posts/:id'>
           <Post />
         </Route>
